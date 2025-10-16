@@ -12,8 +12,6 @@
 // @contributionURL https://github.com/WazeDev/Thank-The-Authors
 // @license      MIT
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/541362/WME%20Search%20for%20Closure.user.js
-// @updateURL https://update.greasyfork.org/scripts/541362/WME%20Search%20for%20Closure.meta.js
 // ==/UserScript==
 
 (function() {
